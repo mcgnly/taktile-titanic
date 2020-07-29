@@ -1,7 +1,7 @@
 
 
-# The default branch from which models will vbe deployed
-default_branch_name: master
+# The default branch from which models will be deployed
+default_branch_name: main
 
 service:
 
