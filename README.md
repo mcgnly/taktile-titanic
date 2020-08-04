@@ -1,4 +1,4 @@
-xxxxx
+xxxxxx
 # Welcome to Taktile!
 Taktile turns machine learning prototypes into production applications. 
 
